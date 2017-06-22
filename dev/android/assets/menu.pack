@@ -1,0 +1,353 @@
+
+menu.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+main-menu-page
+  rotate: false
+  xy: 1, 223
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+puzzles-count-selector
+  rotate: false
+  xy: 483, 623
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+difficulty-selector
+  rotate: false
+  xy: 483, 221
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+challenges-title
+  rotate: false
+  xy: 1, 151
+  size: 480, 70
+  orig: 480, 70
+  offset: 0, 0
+  index: -1
+challenges-image-title
+  rotate: false
+  xy: 1, 151
+  size: 480, 70
+  orig: 480, 70
+  offset: 0, 0
+  index: -1
+select-difficulty-title
+  rotate: false
+  xy: 1, 79
+  size: 480, 70
+  orig: 480, 70
+  offset: 0, 0
+  index: -1
+back-button
+  rotate: false
+  xy: 1, 7
+  size: 480, 70
+  orig: 480, 70
+  offset: 0, 0
+  index: -1
+challenge-button
+  rotate: false
+  xy: 483, 99
+  size: 397, 120
+  orig: 397, 120
+  offset: 0, 0
+  index: -1
+select-puzzles-count-title
+  rotate: false
+  xy: 483, 27
+  size: 480, 70
+  orig: 480, 70
+  offset: 0, 0
+  index: -1
+size-6x6
+  rotate: false
+  xy: 885, 977
+  size: 81, 46
+  orig: 81, 46
+  offset: 0, 0
+  index: -1
+size-3x3
+  rotate: false
+  xy: 885, 929
+  size: 80, 46
+  orig: 80, 46
+  offset: 0, 0
+  index: -1
+size-5x5
+  rotate: false
+  xy: 885, 882
+  size: 81, 45
+  orig: 81, 45
+  offset: 0, 0
+  index: -1
+size-4x4
+  rotate: false
+  xy: 885, 836
+  size: 80, 44
+  orig: 80, 44
+  offset: 0, 0
+  index: -1
+seconds-label
+  rotate: false
+  xy: 483, 5
+  size: 89, 20
+  orig: 89, 20
+  offset: 0, 0
+  index: -1
+minutes-label
+  rotate: false
+  xy: 574, 5
+  size: 85, 20
+  orig: 85, 20
+  offset: 0, 0
+  index: -1
+second-label
+  rotate: false
+  xy: 885, 814
+  size: 76, 20
+  orig: 76, 20
+  offset: 0, 0
+  index: -1
+passed-icon
+  rotate: false
+  xy: 885, 764
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+puzzles-label
+  rotate: false
+  xy: 661, 5
+  size: 75, 20
+  orig: 75, 20
+  offset: 0, 0
+  index: -1
+minute-label
+  rotate: false
+  xy: 738, 5
+  size: 72, 20
+  orig: 72, 20
+  offset: 0, 0
+  index: -1
+locked-icon
+  rotate: false
+  xy: 885, 714
+  size: 43, 48
+  orig: 43, 48
+  offset: 0, 0
+  index: -1
+puzzle-label
+  rotate: false
+  xy: 812, 5
+  size: 63, 20
+  orig: 63, 20
+  offset: 0, 0
+  index: -1
+tick
+  rotate: false
+  xy: 968, 996
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+digit9
+  rotate: false
+  xy: 935, 792
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+digit6
+  rotate: false
+  xy: 885, 692
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+digit5
+  rotate: false
+  xy: 877, 5
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+digit8
+  rotate: false
+  xy: 994, 1003
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+digit3
+  rotate: false
+  xy: 935, 770
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+digit4
+  rotate: false
+  xy: 949, 793
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+digit0
+  rotate: false
+  xy: 885, 670
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+digit2
+  rotate: false
+  xy: 899, 692
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+digit7
+  rotate: false
+  xy: 891, 6
+  size: 9, 19
+  orig: 9, 19
+  offset: 0, 0
+  index: -1
+digit1
+  rotate: false
+  xy: 1008, 1004
+  size: 8, 19
+  orig: 8, 19
+  offset: 0, 0
+  index: -1
+sdigit9
+  rotate: false
+  xy: 968, 979
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+sdigit5
+  rotate: false
+  xy: 885, 653
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+sdigit0
+  rotate: false
+  xy: 898, 675
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+sdigit6
+  rotate: false
+  xy: 912, 697
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+sdigit8
+  rotate: false
+  xy: 902, 10
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+sdigit3
+  rotate: false
+  xy: 979, 979
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+sdigit4
+  rotate: false
+  xy: 885, 637
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+sdigit2
+  rotate: false
+  xy: 913, 10
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+sdigit7
+  rotate: false
+  xy: 885, 621
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+background
+  rotate: false
+  xy: 923, 15
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+sdigit1
+  rotate: false
+  xy: 885, 605
+  size: 6, 14
+  orig: 6, 14
+  offset: 0, 0
+  index: -1
+separator
+  rotate: false
+  xy: 1018, 1010
+  size: 4, 13
+  orig: 4, 13
+  offset: 0, 0
+  index: -1
+digitnone
+  rotate: false
+  xy: 891, 1
+  size: 8, 3
+  orig: 8, 3
+  offset: 0, 0
+  index: -1
+sseparator
+  rotate: false
+  xy: 930, 753
+  size: 3, 9
+  orig: 3, 9
+  offset: 0, 0
+  index: -1
+
+menu2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+time-selector
+  rotate: false
+  xy: 1, 1
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+select-time-title
+  rotate: false
+  xy: 403, 331
+  size: 480, 70
+  orig: 480, 70
+  offset: 0, 0
+  index: -1
+select-image-title
+  rotate: false
+  xy: 403, 259
+  size: 480, 70
+  orig: 480, 70
+  offset: 0, 0
+  index: -1
